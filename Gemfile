@@ -5,7 +5,7 @@ ruby '2.5.7'
 gem 'rails', '5.0.7.2'
 gem 'pg',    '0.18.1'
 
-gem 'puma', '3.7.0'
+gem 'puma', '4.3.8'
 gem 'activeadmin'
 gem 'devise'
 
